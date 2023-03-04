@@ -1,19 +1,12 @@
 
-# Xây dựng bản mô phỏng ứng dụng Netflix 
+# Xây dựng webapp MyTV
 
 
-Bài tập lớn môn công nghệ phần mềm K2N2 năm 2022
 
 # Team members
-- A04160    Nguyễn Thị Mai
-- A41203    Vũ Thị Nga
-- A38790    Nguyễn Trung Huy
-- A41025    Nguyễn Đức Thành
-
-## How to use
 
 
-
+## How to run
 
 ```bash
 //Clone from github
@@ -53,3 +46,5 @@ Actor details:
 
 - ReactJs, CSS
 - MUI
+
+https://netflix-clone-bbc5c.web.app/
