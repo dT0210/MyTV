@@ -1,1 +1,4 @@
-123 456
+Ho va ten: Nguyen Duc Thanh
+Nam sinh: 2002
+Gioi tinh: Nam
+Dai hoc Thang Long
