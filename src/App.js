@@ -15,8 +15,8 @@ function App() {
     <Router>
       <Routes>
         <Route exact path="/" element={<Starting/>}/>
-        <Route path="/browse" element={<Home/>}/> 
-        <Route path="/browse/:type" element={<Home/>}/>
+        <Route path="/home" element={<Home/>}/> 
+        <Route path="/home/:type" element={<Home/>}/>
         <Route path="/search/:query" element={<SearchResult/>}/>
         <Route path="/watching/:type/:movieId/:season?/:episode?" element={<Player/>}/>
         <Route path="/person/:personId" element={<Person/>}/>
