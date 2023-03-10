@@ -1,1 +1,3 @@
-123 456
+Họ và tên: Nguyễn Đức Thành
+Năm sinh: 2002
+Đại học Thăng long
